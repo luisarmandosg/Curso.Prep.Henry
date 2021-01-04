@@ -1,0 +1,39 @@
+Explicación
+
+***Variables: son datos que una persona cambia o puede cambiar, es darle el nombre a algo
+por ejemplo, si decimos que 1 + 3 = 4
+aplicamos variables a 1 y a 3 y podemos decir que Rojo=1 , Verde=3
+entonces Rojo + Verde= 4 siendo las variables ROJO y VERDE dandole un nombre a los datos.
+
+***Strings: son tipos de datos en forma de caracteres (letras) los cuales nos ayudan a definir 
+una acción a un lenguaje de programacion
+por ejemplo : var agua = "agua"
+              var fria = "fria"
+
+***Funciones (argumentos, return): es una parte de un codigo que nos sirve para resolver algo o 
+mostrar una acción.
+Ejemplo: si decimos que 
+
+    <script>
+ 
+    //definimos la función, que en este caso la llamamos me gusta()
+ 
+    function megusta() { 
+     document.write("Hola, me gusta el auto azul");
+    }
+ 
+    //llamamos a la función Megusta() para que ejecute sus instrucciones
+ 
+    megusta();  
+ 
+    </script>
+
+tenemos que el resultado sería:
+
+Hola, me gusta el auto azul
+
+
+***Declaraciones if : es cuando queremos mencionar una condicion de SI (if) algo pasa
+entonces....... Resultado
+
+***Valores booleados (true, false): son valores que utilizamos para aclarar si algo es verdadero o falso.
